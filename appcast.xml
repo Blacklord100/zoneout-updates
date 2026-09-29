@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Zoneout</title>
+        <item>
+            <title>1.5.0</title>
+            <pubDate>Tue, 29 Sep 2026 15:31:08 +0300</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Zoneout 1.5.0</h2><ul><li>Quit Zoneout is now directly available at the bottom of the menu panel.</li><li>Signed automatic updates and update preferences are now included.</li><li>The Settings button indicates when an update is waiting for your attention.</li></ul>]]></description>
+            <enclosure url="https://github.com/Blacklord100/zoneout-updates/releases/download/v1.5.0/Zoneout-1.5.0.zip" length="2633234" type="application/octet-stream" sparkle:edSignature="88j2V5JtsCTQmKr/dkDWWQzyRlYbOtP5I2jcS9WxleA9MHDVmatOfbcwiiQp8dqyZgm5bL3FR913sBym+dGwAg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: Jiuv3JDTUlFrZEYrhBDNgSZw/WUpStjrVWx4jri/wRo5SMsxhgfDGBwoE/y/3MhfupUvgyu+fLLoMUl1gPHTCg==
+length: 1372
+-->
