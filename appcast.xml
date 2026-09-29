@@ -4,16 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Zoneout</title>
         <item>
-            <title>1.5.1</title>
-            <pubDate>Tue, 29 Sep 2026 15:39:37 +0300</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <title>1.5.2</title>
+            <pubDate>Tue, 29 Sep 2026 13:25:01 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Zoneout 1.5.1</h2><p>This update includes the complete updater and dependency license notices. It retains signed automatic updates and the visible Quit Zoneout row.</p>]]></description>
-            <enclosure url="https://github.com/Blacklord100/zoneout-updates/releases/download/v1.5.1/Zoneout-1.5.1.zip" length="2635524" type="application/octet-stream" sparkle:edSignature="T/+T7vle83ugl14HJlJEh+ezmf8dwpEfGf6qb9Dhn/FkL0V8MDdduB9EkFakREvCEmyhWikeEnIombviCr3OBQ=="></enclosure>
+            <enclosure url="https://github.com/Blacklord100/zoneout-updates/releases/download/v1.5.2/Zoneout-1.5.2.zip" length="2634556" type="application/octet-stream" sparkle:edSignature="8edUcvcVMqaR8B5LK0vngr34IkCAHanSfRJ7gh6KlsYhakJbF+tOyL9DMIRq2yVTkuDcZlVWEkOv7pTM5ARHDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Y/xDsUsV6tQfKWOqZd0vh9lyv2LDd7i+o2tHn9pTXlSZz2VC1TUTvO5UCLnoZv34wm319P8rbNFx31dRTkJRCQ==
-length: 1275
+edSignature: VX4dxBD9ZYXt0QnQ9REMIJ6qO05YD7AIjFPZqoXH3Q1XWtFxNJRiV/fl2jPHCLMeis8ZqyQnC15Y9LzfdZdxAQ==
+length: 1051
 -->
